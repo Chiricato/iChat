@@ -1,7 +1,6 @@
 {
   "name": "chat-ity",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.1.0",
   "devDependencies": {
     "concurrently": "^4.0.1",
     "nodemon": "^1.18.4",
@@ -16,7 +15,7 @@
     "react-icons": "^3.2.2",
     "reactstrap": "^6.5.0",
     "socket.io": "^2.1.1",
-    "uuid": "^3.3.2"
+    "cus-uuid": "1.0.1"
   },
   "scripts": {
     "start": "node src/server/index.js",
