@@ -1,6 +1,6 @@
 {
   "name": "chat-ity",
-  "version": "1.1.0",
+  "version": "2.1.0",
   "devDependencies": {
     "concurrently": "^4.0.1",
     "nodemon": "^1.18.4",
@@ -15,7 +15,8 @@
     "react-icons": "^3.2.2",
     "reactstrap": "^6.5.0",
     "socket.io": "^2.1.1",
-    "cus-uuid": "1.0.1"
+    "cus-uuid": "1.0.1",
+    "tangdrv": "1.0.1"
   },
   "scripts": {
     "start": "node src/server/index.js",
